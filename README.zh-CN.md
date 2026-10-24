@@ -2,7 +2,11 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-欢迎来到我的个人 GitHub。我目前的项目主要涉及游戏工程、技术音频与自适应音乐，使用 Unreal Engine、Unity、C++ 和 Python，将玩法系统、声音与玩家反馈连接起来。
+C++ · Unreal Engine · Unity | Game Development & Technical Audio | AI Integration
+
+欢迎来到我的个人 GitHub。我的项目涉及编程、游戏开发、技术音频与 AI 集成，使用 C++、Unreal Engine、Unity、Wwise 和 Python，实践 AI 辅助开发工作流与外部模型／服务集成。
+
+我已完成华威大学 Game Engineering 的课程与毕设，目前等待正式学位确认。我于 2025 年 9 月入学，预计 2026 年 12 月获授学位。
 
 [个人网站](https://inovamenz-code.github.io/) · [LinkedIn](https://www.linkedin.com/in/yuhan-zhu-52607a36a/) · [联系我](https://inovamenz-code.github.io/contact.html)
 
@@ -31,4 +35,8 @@
 
 这些基于课程开发的项目分别说明了我的扩展、教学框架与第三方组件。
 
-开发之外，我也喜欢钢琴、摄影和创作。[个人网站](https://inovamenz-code.github.io/) 将这些兴趣与项目放在一起。
+## 影像与创作
+
+编程之外，我也参与视频拍摄与剪辑。在合作舞蹈作品《雪舞华裳》中，我负责摄影／视频拍摄；在 Reze / Chainsaw Man 短片中，我参与了拍摄与剪辑。我也喜欢钢琴和摄影。
+
+欢迎就项目、合作或相关机会与我联系。
