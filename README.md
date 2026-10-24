@@ -2,7 +2,11 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-Welcome to my personal GitHub. My current work centres on games engineering, technical audio and adaptive music. I use Unreal Engine, Unity, C++ and Python to connect gameplay systems, sound and player feedback.
+C++ · Unreal Engine · Unity | Game Development & Technical Audio | AI Integration
+
+Welcome to my personal GitHub. My projects span programming, game development, technical audio and AI integration. I work with C++, Unreal Engine, Unity, Wwise and Python, using both AI-assisted development workflows and external model/service integration.
+
+I have completed my Game Engineering coursework and dissertation at the University of Warwick and am awaiting formal degree confirmation. I started in September 2025, with the degree award expected in December 2026.
 
 [Personal website](https://inovamenz-code.github.io/) · [LinkedIn](https://www.linkedin.com/in/yuhan-zhu-52607a36a/) · [Contact](https://inovamenz-code.github.io/contact.html)
 
@@ -31,4 +35,8 @@ A C++ top-down survival shooter with fixed and infinite maps, enemy spawning, pi
 
 These coursework-based projects document my own extensions alongside teaching frameworks and third-party components.
 
-Outside development, I enjoy piano, photography and creative work. My [website](https://inovamenz-code.github.io/) brings those interests and my projects together.
+## Creative work
+
+Alongside programming, I work on video filming and editing. I contributed camera work to the collaborative dance video 《雪舞华裳》 and participated in filming and editing a Reze / Chainsaw Man short. I also enjoy piano and photography.
+
+Feel free to get in touch about projects, collaboration or opportunities.
