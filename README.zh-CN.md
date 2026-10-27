@@ -29,6 +29,15 @@ C++ · Unreal Engine · Unity | Game Development & Technical Audio | AI Integrat
 ### [WM908 生存射击 — 项目介绍](https://inovamenz-code.github.io/projects.html#survival-prototype)
 一款 C++ 俯视角生存射击游戏，包含固定与无限地图、敌人生成、拾取物和存档／读档。源码仓库与 Windows 快照目前为私有，公开材料正在准备中。Wwise 集成属于后续计划，尚未实现。
 
+### [Anti-Alien — 第 6 关](https://github.com/inovamenz-code/Anti-Alien-Level6)
+华威 WM9M5 团队科幻游戏的第 6 关，包含研究设施、沙漠外景、重力变化和火箭发射结尾，原始制作时间为 2026 年 4–5 月。
+
+我的贡献包括 Blueprint 音频实现、室外地形和火箭区域关卡工作，以及配套 UMG UI。我重构了 `BP-MusicManager`，组织音乐切换和淡入淡出，并创建 `BFL-AudioHelper`，提供可复用的 2D 与位置化音效调用；同时协调 42 人整体项目中的六人小组，负责任务分配、进度跟踪、会议沟通和最终整合。
+
+仓库收录双语个人贡献介绍、原始蓝图截图及后续 Windows 打包记录。
+
+**Unreal Engine · Blueprint · 游戏音频 · UMG · 小组协调**
+
 ## 其他技术项目
 
 [路径追踪器](https://github.com/inovamenz-code/cpp-path-tracer) · [软件光栅化器](https://github.com/inovamenz-code/cpp-software-rasterizer) · [TCP 聊天室](https://github.com/inovamenz-code/cpp-tcp-chatroom)
