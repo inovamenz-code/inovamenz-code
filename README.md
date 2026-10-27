@@ -29,6 +29,15 @@ My work covers state capture, controlled prompts, service integration, a desktop
 ### [WM908 Survival Shooter — project overview](https://inovamenz-code.github.io/projects.html#survival-prototype)
 A C++ top-down survival shooter with fixed and infinite maps, enemy spawning, pickups and save/load. The repository and Windows snapshot are currently private; public materials are being prepared. Wwise integration is planned, not implemented.
 
+### [Anti-Alien — Level 6](https://github.com/inovamenz-code/Anti-Alien-Level6)
+Level 6 of a collaborative sci-fi Unreal Engine game, with research-facility and desert environments, gravity changes and a rocket-launch ending. Created for Warwick's WM9M5 project in April–May 2026.
+
+My contribution covered Blueprint audio, exterior terrain and rocket-area level work, and supporting UMG UI. I refactored `BP-MusicManager` for music switching and fades and created `BFL-AudioHelper` for reusable 2D and positional sound calls. I also coordinated a six-person group within the wider 42-person project, handling task allocation, progress tracking, meetings and final integration.
+
+The repository includes a bilingual contribution overview, original Blueprint screenshots and later Windows packaging notes.
+
+**Unreal Engine · Blueprint · Game audio · UMG · Team coordination**
+
 ## Other technical work
 
 [Path tracer](https://github.com/inovamenz-code/cpp-path-tracer) · [Software rasterizer](https://github.com/inovamenz-code/cpp-software-rasterizer) · [TCP chatroom](https://github.com/inovamenz-code/cpp-tcp-chatroom)
